@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DevOps Practice Project – Dist Directory
 
 This repository contains the production-ready build files (dist folder) for DevOps practice and deployment exercises.
@@ -89,3 +90,6 @@ No dependencies are required
 No build process is required
 
 No package.json is needed
+=======
+# final-2
+>>>>>>> c340713eff91652276ecd8875abc490316b57bb2

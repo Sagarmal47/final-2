@@ -1,0 +1,9 @@
+cat << 'EOF' > .gitignore
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform.lock.hcl
+awscliv2.zip
+aws/
+EOF
